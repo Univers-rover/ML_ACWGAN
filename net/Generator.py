@@ -1,10 +1,3 @@
-"""
-@Author : Keep_Trying_Go
-@Major  : Computer Science and Technology
-@Hobby  : Computer Vision
-@Time   : 2023/5/2 12:08
-"""
-
 import torch
 from torch import nn
 
