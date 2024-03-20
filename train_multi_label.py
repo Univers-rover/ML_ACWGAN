@@ -1,9 +1,3 @@
-"""
-@Author : Keep_Trying_Go
-@Major  : Computer Science and Technology
-@Hobby  : Computer Vision
-@Time   : 2023/5/2 12:06
-"""
 import os
 import random
 import argparse
