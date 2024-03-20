@@ -1,10 +1,3 @@
-"""
-@Author : Keep_Trying_Go
-@Major  : Computer Science and Technology
-@Hobby  : Computer Vision
-@Time   : 2023/5/2 12:39
-"""
-
 import numpy as np
 # import matplotlib.pyplot as plt
 from torchvision.utils import save_image  # 用于生成图片、保持图片
